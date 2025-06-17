@@ -1,0 +1,111 @@
+body {
+    background-color: rgb(219, 192, 203);
+
+}
+
+.main-info {
+    background-color: aliceblue;
+    position-anchor: fixed;
+    text-align:center
+}
+
+.email {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;
+}
+
+.name {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+    background-color: aliceblue;
+}
+
+.main-ed {
+    position-anchor: fixed;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.line1 {
+    position-anchor: fixed;
+    text-align: center;
+    color:rgb(160, 83, 114)
+}
+
+.ed-paragraph {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position-anchor: fixed;
+}
+
+.ed-list{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.education {
+    position-anchor: fixed;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.highschool-p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.electives {
+    position-anchor: fixed;
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.elective-li{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.work {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position-anchor: fixed;
+    text-align:center
+}
+
+.volunteering {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.25em;
+}
+
+.teaching {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.link-about.me {
+    text-align: center;
+    
+}
+
+.acheivements {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position-anchor: fixed;
+    text-align: center;
+}
+
+.acheivements-li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position-anchor: fixed;
+}
+
+.back-end {
+    background-color: aliceblue;
+}
+
+.thanks {
+    position-anchor: fixed;
+    text-align: center;
+    font-size: 2em;
+    background-color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 80;
+}
+
+.final{
+    background-color: aliceblue;
+}
